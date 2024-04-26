@@ -4,6 +4,7 @@
 
 ### How to reach me 📫
 📍 **Malaga**  
+📧 **Email:** [mar27benitez@gmail.com](mailto:mar27benitez@gmail.com)  
 🔗 **LinkedIn:** [Mar Benitez](https://www.linkedin.com/in/mar-benitez-506910192)  
 👨‍💻 **GitHub:** [MarBenitez](https://github.com/MarBenitez)
 
