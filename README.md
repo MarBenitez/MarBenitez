@@ -13,7 +13,7 @@ A versatile and driven Data Scientist with a multidisciplinary background in Bio
 
 ### Tech Toolbox 🛠️
 - **Languages:** Python, SQL, R
-- **Frameworks & Libraries:** PyTorch, Huggingface
+- **Frameworks & Libraries:** PyTorch, Keras, Huggingface
 - **Tools:** Git, Power BI, BigQuery
 - **Specialties:** Genomic Data Analysis
 
