@@ -1,16 +1,30 @@
-### Hi there 👋
+# 👋 Hi there, I'm Mar!
 
-<!--
-**MarBenitez/MarBenitez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Data Scientist | 🌱 Lifelong Learner | 💡 Innovative Mindset
 
-Here are some ideas to get you started:
+### How to reach me 📫
+📍 **Malaga**  
+🔗 **LinkedIn:** [MarBenitez](https://www.linkedin.com/in/mar-benitez-506910192/))  
+👨‍💻 **GitHub:** [MarBenitez](https://github.com/MarBenitez)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me ✨
+A versatile and driven Data Scientist with a multidisciplinary background in Biotechnology, Plant Genetics, and Data Science. With a solid academic foundation and over two years of hands-on experience in bioinformatics research at CSIC and the commercial sector, I bring a unique blend of technical expertise and business acumen to the table.
+
+### Tech Toolbox 🛠️
+- **Languages:** Python, SQL, R
+- **Frameworks & Libraries:** PyTorch, Huggingface
+- **Tools:** Git, Power BI, BigQuery
+- **Specialties:** Genomic Data Analysis
+
+### Education 🎓
+- **Masters in Data Science**, KSchool
+- **Masters in Plant Genetics, Genomics and Breeding**, CIHEAM Zaragoza
+- **Bachelors in Biotechnology**, Almeria University
+
+### Certifications 📜
+- **Google:** Google Analytics IQ
+- **Tokio School**: Python programming
+- **UPOV:** DL-205
+
+
+⚡ Fun fact: I'm a One Piece freak
