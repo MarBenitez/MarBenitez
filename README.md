@@ -18,6 +18,7 @@ A versatile and driven Data Scientist with a multidisciplinary background in Bio
 - **Specialties:** Genomic Data Analysis
 
 ### Education 🎓
+- **Data Analysis Bootcamp**, Upgrade Hub
 - **Masters in Data Science**, KSchool
 - **Masters in Plant Genetics, Genomics and Breeding**, CIHEAM Zaragoza
 - **Bachelors in Biotechnology**, Almeria University
