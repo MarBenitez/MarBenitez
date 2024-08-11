@@ -12,10 +12,10 @@
 A versatile and driven Data Scientist with a multidisciplinary background in Biotechnology, Plant Genetics, and Data Science. With a solid academic foundation and over two years of hands-on experience in bioinformatics research at CSIC and the commercial sector, I bring a unique blend of technical expertise and business acumen to the table.
 
 ### Tech Toolbox 🛠️
-- **Languages:** Python, SQL, R
-- **Frameworks & Libraries:** PyTorch, Keras, Huggingface
-- **Tools:** Git, Power BI, BigQuery
-- **Specialties:** Genomic Data Analysis
+- **Languages:** Python, SQL, R, DAX
+- **Frameworks & Libraries:** Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, PyTorch, Keras, Huggingface, Apache Spark, Plotly
+- **Tools:** Git, Power BI, BigQuery, Streamlit
+- **Specialties:** Genomic Data Analysis, Data Storytelling, Predictive Modeling
 
 ### Education 🎓
 - **Data Analysis Bootcamp**, Upgrade Hub
