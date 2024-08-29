@@ -9,7 +9,7 @@
 👨‍💻 **GitHub:** [MarBenitez](https://github.com/MarBenitez)
 
 ### About Me ✨
-A versatile and driven Data Scientist with a multidisciplinary background in Biotechnology, Plant Genetics, and Data Science. With a solid academic foundation and over two years of hands-on experience in bioinformatics research at CSIC and the commercial sector, I bring a unique blend of technical expertise and business acumen to the table.
+A versatile and driven Data Scientist with a multidisciplinary background in Biotechnology, Data Science and Analytics. With a solid academic foundation and over two years of hands-on experience in bioinformatics research at CSIC and the commercial sector, I bring a unique blend of technical expertise and business acumen to the table.
 
 ### Tech Toolbox 🛠️
 - **Languages:** Python, SQL, R, DAX
