@@ -15,7 +15,7 @@ A versatile and driven Data Scientist with a multidisciplinary background in Bio
 - **Languages:** Python, DAX, SQL, R
 - **Frameworks & Libraries:** Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, PyTorch, Keras, Huggingface, Flask, Apache Spark, Plotly
 - **Tools:** Git, Power BI, BigQuery, Streamlit, Docker, Azure
-- **Specialties:** Genomic Data Analysis, Data Storytelling, Predictive Modeling
+- **Specialties:** Data Storytelling and Visualization, Machine Learning, Big Data Processing
 
 ### Education 🎓
 - **Data Analysis Bootcamp**, Upgrade Hub
