@@ -20,7 +20,6 @@ A versatile Data Scientist with a multidisciplinary background in Biotechnology,
 ### Education 🎓
 - **Data Analysis Bootcamp**, Upgrade Hub
 - **Masters in Data Science**, KSchool
-- **Python Programming Course**, Tokio School
 - **Masters in Plant Genetics, Genomics and Breeding**, CIHEAM Zaragoza
 - **Bachelors in Biotechnology**, Almeria University
 
