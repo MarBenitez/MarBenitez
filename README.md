@@ -9,7 +9,7 @@
 👨‍💻 **GitHub:** [MarBenitez](https://github.com/MarBenitez)
 
 ### About Me ✨
-A versatile Data Scientist with a multidisciplinary background in Biotechnology, Data Science and Analytics. Nearly two years at CSIC, excelling in data-centric research projects. Known for blending tech proficiency with problem-solving prowess. Passionate about using my technical expertise and analytical mindset to drive innovation and contribute to impactful projects in the technology and data science sectors.
+A versatile Data Analyst and Scientist with expertise in Python, SQL, and Power BI, currently driving data-driven decisions at SEAT. Passionate about transforming complex data into actionable insights and building innovative solutions in the tech and IT sectors. Experienced in research and business environments, blending analytical skills with a strong technical foundation to deliver impactful results.
 
 ### Tech Toolbox 🛠️
 - **Languages:** Python, DAX, SQL, R
