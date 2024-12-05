@@ -9,7 +9,7 @@
 👨‍💻 **GitHub:** [MarBenitez](https://github.com/MarBenitez)
 
 ### About Me ✨
-A versatile Data Analyst and Scientist with expertise in Python, SQL, and Power BI, currently driving data-driven decisions at SEAT. Passionate about transforming complex data into actionable insights and building innovative solutions in the tech and IT sectors. Experienced in research and business environments, blending analytical skills with a strong technical foundation to deliver impactful results.
+A versatile Data Analyst and Scientist with expertise in Python, SQL, and Power BI, currently driving data-driven decisions and automating processes at SEAT. Passionate about transforming complex data into actionable insights, streamlining workflows, and building innovative solutions in the tech and IT sectors. Experienced in research and business environments, blending analytical skills with automation and a strong technical foundation to deliver impactful results.
 
 ### Tech Toolbox 🛠️
 - **Languages:** Python, DAX, SQL, R
