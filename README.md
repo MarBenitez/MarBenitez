@@ -1,32 +1,43 @@
-# 👋 Hi there, I'm Mar!
+# Mar Benitez
 
-## 🚀 Data Scientist | 🌱 Lifelong Learner | 💡 Innovative Mindset
+**BI & Analytics · Marketing Intelligence · Building things that work**
 
-### How to reach me 📫
-📍 **Malaga**  
-📧 **Email:** [mar27benitez@gmail.com](mailto:mar27benitez@gmail.com)  
-🔗 **LinkedIn:** [Mar Benitez](https://www.linkedin.com/in/mar-benitez-506910192)  
-👨‍💻 **GitHub:** [MarBenitez](https://github.com/MarBenitez)
+Currently at Jakala, where I turn Salesforce, Marketing Cloud, and Snowflake
+data into decisions that marketing teams can actually use.
+Curious by nature. Technical and relentless.
 
-### About Me ✨
-A versatile Data Analyst and Scientist with expertise in Python, SQL, and Power BI, currently driving data-driven decisions and automating processes at SEAT. Passionate about transforming complex data into actionable insights, streamlining workflows, and building innovative solutions in the tech and IT sectors. Experienced in research and business environments, blending analytical skills with automation and a strong technical foundation to deliver impactful results.
+---
 
-### Tech Toolbox 🛠️
-- **Languages:** Python, DAX, SQL, R
-- **Frameworks & Libraries:** Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, PyTorch, Keras, Huggingface, Flask, Apache Spark, Plotly
-- **Tools:** Git, Power BI, BigQuery, Streamlit, Docker, Azure
-- **Specialities:** Data Storytelling and Visualization, Machine Learning, Big Data Processing
+### What I'm working on
 
-### Education 🎓
-- **Data Analysis Bootcamp**, Upgrade Hub
-- **Masters in Data Science**, KSchool
-- **Masters in Plant Genetics, Genomics and Breeding**, CIHEAM Zaragoza
-- **Bachelors in Biotechnology**, Almeria University
+- **[TagScope](https://tagscope-frontend.vercel.app/)** — Free SEO meta tag inspector.
+  Built and shipped in a weekend. Vanilla JS + Node.js serverless on Vercel.
+- Growing into the intersection of data, marketing strategy, and product thinking.
 
-### Certifications 📜
-- **Google:** Google Analytics IQ
-- **Tokio School**: Python programming
-- **UPOV:** DL-205
+---
 
+### Tech
 
-⚡ Fun fact: I'm a One Piece freak
+**Data & Analytics** — SQL · Python · Power BI · DAX · Snowflake · BigQuery
+**Marketing Tech** — Salesforce CRM · Marketing Cloud · Campaign Analytics · SEO
+**ML & Libraries** — Scikit-Learn · Pandas · Spark · Keras · PyTorch
+**Infra & Tools** — Git · Docker · Azure · Vercel · Streamlit
+
+---
+
+### Background
+
+MSc Data Science · KSchool
+MSc Genetic Improvement · CIHEAM
+BSc Biotechnology · Universidad de Almería
+
+---
+
+📧 mar27benitez@gmail.com
+🌐 [marbenitez.github.io](https://marbenitez.github.io)
+💼 [linkedin.com/in/mar-benitez-506910192](https://www.linkedin.com/in/mar-benitez-506910192)
+
+---
+
+*Fun fact: One Piece fan. Still waiting for someone to build a data pipeline
+for the Poneglyph translations.*
