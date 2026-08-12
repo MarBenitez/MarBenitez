@@ -3,11 +3,11 @@
 Biotechnologist who ended up building with AI. Long story, short version below.
 
 I started out running statistics on genomes: GWAS, selection analysis, thousands of
-variables and never enough samples. Then I moved to data, which is the same maths
-on a different substrate.
+variables and never enough samples. Then I moved to data, which is the same maths on a
+different substrate.
 
-Today I'm a BI consultant at Jakala. I turn Salesforce, Marketing Cloud, Google Ads 
-and Snowflake data into strategy the team runs on.
+Today I'm a BI consultant at Jakala. I turn Salesforce, Marketing Cloud, Google Ads and
+Snowflake data into strategy the team runs on.
 
 Nights and weekends are mine, and that's where everything below comes from. Apps, tools,
 automations, whatever I need and can't find. I do the design, the code, the backend and
@@ -19,11 +19,11 @@ the boring parts too.
 
 **[nudgio](https://apps.apple.com/app/id6761693436)** · iOS · on the App Store since May 2026
 
-Everyone saves recipes, AI tools, workouts and places they never go back to. nudgio takes what you
+Everyone saves recipes, workouts and places they never go back to. nudgio takes what you
 save from any app, organizes it with AI, and nudges you to actually do it. React Native
 and Expo, Supabase, Postgres, an AI pipeline that turns a saved link into structured data,
-8 languages. Design, app, backend and App Store submissions, all mine. The repo is
-private, the app isn't: [nudgio.one](https://nudgio.one)
+8 languages. Design, engineering, backend, App Store submissions and the marketing behind
+it, all mine. The repo is private, the app isn't: [nudgio.one](https://nudgio.one)
 
 **[TagScope](https://tagscope-frontend.vercel.app/)** · free SEO meta tag inspector
 
@@ -41,7 +41,7 @@ Next.js 16 and React 19, English and Spanish, a generative identity built in thr
 ### What I work with
 
 - **Data** · SQL · Python · pandas · Snowflake · BigQuery · Power BI · DAX
-- **Marketing tech** · Salesforce CRM · Marketing Cloud · campaign analytics · SEO
+- **Marketing tech** · Salesforce CRM · Marketing Cloud · Google Ads · GA4 · campaign analytics · SEO
 - **Building** · React Native · Expo · Next.js · Supabase · Postgres · Docker · Vercel · Azure · Git
 
 ### Background
